@@ -1,0 +1,9 @@
+<personDictDTO mode="Update">
+	<Person>
+		<Code>010</Code>
+		<LastName>Мельников</LastName>
+		<FirstName>Платон</FirstName>
+		<MiddleName>Натанович</MiddleName>
+		<Birthday>01/15/1984</Birthday>
+	</Person>
+</personDictDTO>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<templateDTO mode="Update">
+	<item action="delete">
+		<teamCode>001</teamCode>
+		<personCode>002</personCode>
+	</item>
+	<item action="add">
+		<teamCode>001</teamCode>
+		<personCode>010</personCode>
+	</item>
+	<item>
+		<teamCode>001</teamCode>
+		<personCode>005</personCode>
+	</item>
+	<item>
+		<teamCode>001</teamCode>
+		<personCode>007</personCode>
+	</item>
+	<item>
+		<teamCode>002</teamCode>
+		<personCode>001</personCode>
+	</item>
+	<item action="delete">
+		<teamCode>002</teamCode>
+		<personCode>003</personCode>
+	</item>
+	<item action="add">
+		<teamCode>002</teamCode>
+		<personCode>002</personCode>
+	</item>
+	<item>
+		<teamCode>002</teamCode>
+		<personCode>004</personCode>
+	</item>
+	<item>
+		<teamCode>003</teamCode>
+		<personCode>006</personCode>
+	</item>
+	<item>
+		<teamCode>003</teamCode>
+		<personCode>008</personCode>
+	</item>
+	<item>
+		<teamCode>003</teamCode>
+		<personCode>009</personCode>
+	</item>
+</templateDTO>
